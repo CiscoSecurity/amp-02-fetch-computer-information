@@ -1,6 +1,6 @@
 ### AMP for Endpoint Fetch Computer Information
 
-These scripts provide examples for parsing specific elements of the JSON returned from the /computers endpoit. Examples of elements you are able to fethch:
+These scripts provide examples for parsing specific elements from the JSON returned by the /computers endpoit. Some elements that examples are provided for include:
 - connector GUIDs
 - hostnames of computers
 - MAC addresses
